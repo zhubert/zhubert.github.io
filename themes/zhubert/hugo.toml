@@ -1,0 +1,18 @@
+baseURL = 'https://zhubert.com/'
+languageCode = 'en-us'
+title = 'Zack Hubert'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
