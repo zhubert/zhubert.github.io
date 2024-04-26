@@ -84,3 +84,27 @@ article>p:first-child::first-letter {
     float: left;
     padding-right: 10px;
 }
+
+/* fucking menu */
+nav ul {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-bottom: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: flex;
+  margin: 5px 5px;
+  padding: 5px 5px;
+}
+
+nav li:first-child {
+  flex: 1 auto;
+}
+
+nav li h1 {
+  font-family: adobe-garamond-pro;
+  margin-bottom: 5px;
+}

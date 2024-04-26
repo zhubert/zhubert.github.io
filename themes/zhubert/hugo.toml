@@ -3,13 +3,13 @@ languageCode = 'en-us'
 title = 'Zack Hubert'
 
 [[menus.main]]
-name = 'Home'
-pageRef = '/'
+name = 'Posts'
+pageRef = '/posts'
 weight = 10
 
 [[menus.main]]
-name = 'Posts'
-pageRef = '/posts'
+name = 'About me'
+pageRef = '/about'
 weight = 20
 
 [module]
