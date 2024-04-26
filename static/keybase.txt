@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/zhubert
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.zhubert.com
+  * I am zhubert (https://keybase.io/zhubert) on keybase.
+  * I have a public key ASDNVFpTLY-wnxSH0SzBL1r9EwZ47yLq2f7m4BLYKvya7go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cd545a532d8fb09f1487d12cc12f5afd130678ef22ead9fee6e012d82afc9aee0a",
+      "host": "keybase.io",
+      "kid": "0120cd545a532d8fb09f1487d12cc12f5afd130678ef22ead9fee6e012d82afc9aee0a",
+      "uid": "f2ce649cbd0d56a66ee4eab9805f7100",
+      "username": "zhubert"
+    },
+    "merkle_root": {
+      "ctime": 1610579831,
+      "hash": "79bd981113d79f648029d4dd66e9c4ca21aaf6b197a4584efac9861c7391c5d9564b84f293f9874e1fb2f8a3308016e19aa0f95c50eb10db0de00ea0809386c8",
+      "hash_meta": "62bd15cb250fe955de1fd0e1beecd1c9f8a7e18bd151a5acf7afdeb900cc0884",
+      "seqno": 18735534
+    },
+    "service": {
+      "entropy": "Z3+RJROHI5GtidsmM5lmE6IQ",
+      "hostname": "www.zhubert.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1610579855,
+  "expire_in": 504576000,
+  "prev": "a9c97a7c023dd988b97a95845db0736fc75e462a6bcea1001b8ceca12e0f488c",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzVRaUy2PsJ8Uh9EswS9a/RMGeO8i6tn+5uAS2Cr8mu4Kp3BheWxvYWTESpcCKcQgqcl6fAI92Yi5epWEXbBzb8deRiprzqEAG4zsoS4PSIzEIOnSyiW/Qh96MA9ruqzz7+V4tU2ni8K52dhPmW0PsRryAgHCo3NpZ8RAprrpxO5zK+CkfZV0UUDxgP00j/Elp2aY4uS4LrxGsuin0lqBQDfSV+pYzncmOiZ/VaputVS+RMU/fOX79tk1BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJHHxjP/KKScTK6PSpkUI6tGRkzORbs6GEPa3Fjk1Awbo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zhubert
+
+==================================================================
