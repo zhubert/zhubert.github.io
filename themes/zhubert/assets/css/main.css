@@ -85,7 +85,7 @@ article>p:first-child::first-letter {
     padding-right: 10px;
 }
 
-/* fucking menu */
+/* menu */
 nav ul {
   display: flex;
   align-items: flex-end;
@@ -107,4 +107,17 @@ nav li:first-child {
 nav li h1 {
   font-family: adobe-garamond-pro;
   margin-bottom: 5px;
+}
+
+blockquote {
+    border-left: 2px solid #EDEADE;
+    margin: 0;
+    padding-left: 20px;
+    margin-bottom: 40px
+}
+
+blockquote p {
+    display: inline;
+    background: #fef5df;
+    line-height: 1.8
 }
