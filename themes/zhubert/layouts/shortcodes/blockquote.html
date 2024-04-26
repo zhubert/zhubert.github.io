@@ -1,0 +1,8 @@
+{{ $author := .Get "author" }}
+
+<blockquote class="blockquote m-lg-5 py-3 pl-4 px-lg-5">
+    <p class="mb-2">{{ .Inner }}</p>
+    {{ if $author }}
+    <footer class="blockquote-footer">{{ $author }}</footer>
+    {{ end}}
+</blockquote>
