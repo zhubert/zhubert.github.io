@@ -1,6 +1,6 @@
 baseURL = 'https://zhubert.com/'
 languageCode = 'en-us'
-title = 'Zack Hubert'
+title = 'zhubert'
 
 [[menus.main]]
 name = 'Articles'
@@ -8,7 +8,7 @@ pageRef = '/articles'
 weight = 10
 
 [[menus.main]]
-name = 'About me'
+name = 'About'
 pageRef = '/about'
 weight = 20
 
