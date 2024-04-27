@@ -376,8 +376,6 @@ h1 {
 @media screen and (max-width: 63.99875em) {
     h1 {
         font-size:32px;
-        line-height: 125%;
-        letter-spacing: -1px
     }
 }
 
@@ -388,13 +386,10 @@ h2 {
 @media screen and (max-width: 63.99875em) {
     h2 {
         font-size:24px;
-        line-height: 125%;
-        margin-bottom: 24px
     }
 }
 
 header {
-  /* border-bottom: 1px solid #222; */
   margin-bottom: 1rem;
 }
 
@@ -474,7 +469,8 @@ nav li:first-child {
 
 nav li h1 {
   font-family: "EB Garamond";
-  margin-bottom: 5px;
+  display: flex;
+  margin: 0;
 }
 
 blockquote {
