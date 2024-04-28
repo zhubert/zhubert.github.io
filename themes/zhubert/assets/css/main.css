@@ -1,6 +1,6 @@
 body {
   color: #111;
-  font-family: "EB Garamond", serif;
+  font-family: "Crimson Text", serif;
   font-optical-sizing: auto;
   -webkit-font-smoothing: antialiased;
   font-style: normal;
@@ -43,7 +43,7 @@ header {
 }
 
 header > h1 {
-  font-family: "EB Garamond", serif;
+  font-family: "Crimson Text", serif;
 }
 
 footer {
@@ -117,7 +117,7 @@ nav li:first-child {
 }
 
 nav li h1 {
-  font-family: "EB Garamond";
+  font-family: "Crimson Text";
   display: flex;
   margin: 0;
 }
