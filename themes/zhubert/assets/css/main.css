@@ -106,10 +106,10 @@ nav ul {
   padding: 0;
   list-style: none;
 }
+
 nav li {
   display: flex;
-  margin: 5px 5px;
-  padding: 5px 5px;
+  margin-right: 5px;
 }
 
 nav li:first-child {
