@@ -4,7 +4,7 @@ description: "About Me"
 date: "2019-02-28"
 ---
 
-#### Planning Center - Lead Developer
+#### Planning Center - Senior Engineering Manager
 
 Most recently, I've built several products for Planning Center. The base of operations is in San Diego, but there are a bunch of us spread all over the place (I’m in sunny Seattle, WA). A fantastic group of people.
 
