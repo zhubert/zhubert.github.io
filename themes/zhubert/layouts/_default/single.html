@@ -1,6 +1,6 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
   {{ if eq .Type "articles" }}
+    <h1>{{ .Title }}</h1>
     <time class="article-date">{{ .Date.Format "January 2, 2006" }}</time>
   {{ end }}
 
