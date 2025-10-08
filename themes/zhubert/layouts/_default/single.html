@@ -1,5 +1,8 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  {{ if eq .Type "articles" }}
+    <time class="article-date">{{ .Date.Format "January 2, 2006" }}</time>
+  {{ end }}
 
   <article id="content">
     {{ .Content }}
