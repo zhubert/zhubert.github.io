@@ -2,3 +2,6 @@ baseURL: https://zhubert.com/
 languageCode: en-us
 title: zhubert.com
 theme: "zhubert"
+
+minify:
+  minifyOutput: true
