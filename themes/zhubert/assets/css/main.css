@@ -265,3 +265,20 @@ li {
   background: var(--color-selection);
   color: var(--color-text);
 }
+
+/* profile image styling */
+article > p:first-of-type img {
+  float: right;
+  max-width: 200px;
+  margin: 0 0 1rem 1.5rem;
+  border-radius: 8px;
+}
+
+@media screen and (max-width: 48em) {
+  article > p:first-of-type img {
+    float: none;
+    display: block;
+    max-width: 150px;
+    margin: 0 auto 1.5rem;
+  }
+}

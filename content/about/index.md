@@ -4,6 +4,8 @@ description: "About Me"
 date: "2019-02-28"
 ---
 
+![Zack Hubert](/zack.png)
+
 ## Zack Hubert
 
 I'm an engineering leader, founder, and occasional novelist.
