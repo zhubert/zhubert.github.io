@@ -6,6 +6,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a personal blog/website built with Hugo static site generator. The site uses a custom theme called "zhubert" located in `themes/zhubert/`. The site is deployed to GitHub Pages and served from the `public/` directory.
 
+## Writing Style
+
+When assisting with blog posts or other written content for this site, refer to `STYLEGUIDE.md` for detailed guidance on Zack's writing voice and style patterns.
+
 ## Architecture
 
 - **Hugo Configuration**: Main config is in `hugo.yaml` at the root, with theme-specific config in `themes/zhubert/hugo.toml`
