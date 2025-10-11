@@ -58,29 +58,35 @@ h1,h2,h3 {
 }
 
 h1 {
-  font-size: 46px;
+  font-size: 48px;
 }
 
 @media screen and (max-width: 63.99875em) {
     h1 {
-        font-size:32px;
+        font-size: 36px;
     }
 }
 
 h2 {
-  font-size: 26px;
+  font-size: 28px;
   margin-top: 2rem;
 }
 
 @media screen and (max-width: 63.99875em) {
     h2 {
-        font-size:24px;
+        font-size: 24px;
     }
 }
 
 h3 {
   font-size: 22px;
   margin-top: 1.5rem;
+}
+
+@media screen and (max-width: 63.99875em) {
+    h3 {
+        font-size: 20px;
+    }
 }
 
 header {
@@ -98,7 +104,7 @@ footer {
 }
 
 footer p {
-  font-size: 16px;
+  font-size: 18px;
   color: var(--color-text-muted);
   margin: 0;
 }
@@ -215,7 +221,7 @@ blockquote p {
 
 .article-date {
   display: block;
-  font-size: 16px;
+  font-size: 18px;
   color: var(--color-text-muted);
   margin-bottom: 0.5rem;
 }
@@ -227,7 +233,7 @@ blockquote p {
 /* code blocks and inline code */
 code {
   font-family: "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, "Courier New", monospace;
-  font-size: 18px;
+  font-size: 20px;
   background: var(--color-code-bg);
   padding: 2px 6px;
   border-radius: 3px;
@@ -246,7 +252,7 @@ pre code {
   background: none;
   padding: 0;
   color: var(--color-code-text);
-  font-size: 16px;
+  font-size: 18px;
 }
 
 /* lists */
@@ -381,7 +387,7 @@ article > p:first-of-type img {
 
 .work-content p {
   margin: 0;
-  font-size: 19px;
+  font-size: 21px;
   line-height: 1.6;
 }
 
@@ -436,7 +442,7 @@ article > p:first-of-type img {
 
 .patent-card-title {
   padding: 1rem;
-  font-size: 16px;
+  font-size: 18px;
   text-align: center;
   font-weight: 600;
 }
