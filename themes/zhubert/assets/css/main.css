@@ -393,12 +393,13 @@ article > p:first-of-type img {
 
 @media screen and (max-width: 48em) {
   .work-section {
-    grid-template-columns: 1fr;
+    display: flex;
+    flex-direction: column;
     gap: 1.5rem;
   }
 
-  .work-section.image-left .work-image {
-    order: 0;
+  .work-section .work-image {
+    order: -1;
   }
 }
 

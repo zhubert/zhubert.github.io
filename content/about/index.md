@@ -18,9 +18,8 @@ Leading engineering teams at Planning Center. We build tools that help churches 
 Wrote a science fiction novel called [*Singular*](https://www.amazon.com/Singular-Zack-Hubert-ebook/dp/B06X3VGBVP/). Vintage computers, artificial intelligence gone rogue, the fate of humanity—you know, the usual first novel stuff.
 {{< /work-card >}}
 
-{{< work-card image="/the-city.png" title="Founded The City (2008)" position="right" >}}
+**Founded The City (2008)**
 Built a social network for churches from scratch. Grew it to nearly a million users before Zondervan acquired it. That was fun.
-{{< /work-card >}}
 
 **Early data science at Amazon**
 Built pricing algorithms and anomaly detection systems before "data science" was even a thing. Earned two patents. Made Jeff happy.
