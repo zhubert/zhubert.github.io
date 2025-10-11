@@ -1,0 +1,7 @@
+<div class="bio-card">
+  <div class="bio-content">
+    <h2>{{ .Get "name" }}</h2>
+    {{ .Inner | markdownify }}
+  </div>
+  <img src="{{ .Get "image" }}" alt="{{ .Get "name" }}" />
+</div>

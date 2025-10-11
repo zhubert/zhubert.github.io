@@ -1,0 +1,15 @@
+<div class="work-section image-{{ .Get "position" }}{{ if .Get "class" }} {{ .Get "class" }}{{ end }}">
+  <div class="work-content">
+    <h4>{{ .Get "title" }}</h4>
+    <p>{{ .Inner | markdownify }}</p>
+  </div>
+  <div class="work-image">
+    {{ if .Get "url" }}
+    <a href="{{ .Get "url" }}" target="_blank">
+      <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" />
+    </a>
+    {{ else }}
+    <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" />
+    {{ end }}
+  </div>
+</div>
