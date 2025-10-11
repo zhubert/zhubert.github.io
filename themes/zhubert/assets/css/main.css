@@ -33,7 +33,7 @@
 body {
   color: var(--color-text);
   background-color: var(--color-background);
-  font-family: "Crimson Text", serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-optical-sizing: auto;
   -webkit-font-smoothing: antialiased;
   font-style: normal;
@@ -53,7 +53,7 @@ body {
 
 h1,h2,h3 {
   line-height: 1.4;
-  font-family: "Inter", sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   font-weight: 700;
 }
 
@@ -94,7 +94,7 @@ header {
 }
 
 header > h1 {
-  font-family: "Crimson Text", serif;
+  font-family: Georgia, "Times New Roman", serif;
 }
 
 footer {
@@ -184,7 +184,7 @@ nav li:first-child {
 }
 
 nav li h1 {
-  font-family: "Crimson Text";
+  font-family: Georgia, "Times New Roman", serif;
   display: flex;
   margin: 0;
 }
@@ -380,7 +380,7 @@ article > p:first-of-type img {
 
 .work-content h4 {
   margin: 0 0 0.75rem 0;
-  font-family: "Inter", sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   font-size: 22px;
   font-weight: 700;
 }
