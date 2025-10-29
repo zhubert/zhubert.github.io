@@ -31,3 +31,15 @@ Built pricing algorithms and anomaly detection systems before "data science" was
 
 **Contributed to Nobel Prize-winning physics**
 As an intern at Los Alamos National Lab, I wrote some modeling software for the Sudbury Neutrino Observatory. Very small role, but hey—the project's chief scientist won the [2015 Nobel Prize in Physics](https://www.nobelprize.org/prizes/physics/2015/summary/).
+
+---
+
+## Recent Projects
+
+{{< work-card image="/rush-screenshot.png" title="Rush Programming Language" position="left" url="https://www.zhubert.com/rush" >}}
+Built an [experimental programming language](https://www.zhubert.com/rush) from scratch using AI pair programming. Functional + OO paradigms, three-tiered execution (interpreter → bytecode VM → ARM64 JIT), and surprisingly fun to write.
+{{< /work-card >}}
+
+{{< work-card image="/transformer-screenshot.png" title="Transformer from Scratch" position="right" url="https://www.zhubert.com/transformer" >}}
+Implemented a [decoder-only transformer](https://www.zhubert.com/transformer) in PyTorch to understand how modern LLMs actually work. Built embeddings, attention mechanisms, and interpretability tools from first principles.
+{{< /work-card >}}
