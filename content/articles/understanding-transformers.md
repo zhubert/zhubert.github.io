@@ -56,7 +56,7 @@ The [attention-to-detail project](https://github.com/zhubert/attention-to-detail
 - 16-dimensional embeddings (vs GPT-3's 12,288)
 - 2 attention heads (vs GPT-3's 96)
 - 1 transformer layer (vs GPT-3's 96)
-- Training text: "I love transformers"
+- Training text: "I like transformers"
 
 The project shows all calculations step-by-step:
 
