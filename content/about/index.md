@@ -40,6 +40,6 @@ As an intern at Los Alamos National Lab, I wrote some modeling software for the 
 Built an [experimental programming language](https://www.zhubert.com/rush) from scratch using AI pair programming. Functional + OO paradigms, three-tiered execution (interpreter → bytecode VM → ARM64 JIT), and surprisingly fun to write.
 {{< /work-card >}}
 
-{{< work-card image="/transformer-screenshot.png" title="Transformer from Scratch" position="right" url="https://www.zhubert.com/transformer" >}}
-Implemented a [decoder-only transformer](https://www.zhubert.com/transformer) in PyTorch to understand how modern LLMs actually work. Built embeddings, attention mechanisms, and interpretability tools from first principles.
+{{< work-card image="/transformer-screenshot.png" title="Intro to Transformers" position="right" url="https://www.zhubert.com/intro-to-transformers" >}}
+Writing an [interactive book](https://www.zhubert.com/intro-to-transformers) that teaches transformer architecture from first principles. Covers building transformers, understanding gradients, and generating images from noise—all through hands-on Jupyter notebooks.
 {{< /work-card >}}
