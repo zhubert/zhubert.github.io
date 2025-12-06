@@ -146,23 +146,6 @@ p {
     margin-bottom: 24px;
 }
 
-/* drop case first letter in an article */
-article>p:first-child::first-letter {
-    font-size: 60px;
-    line-height: 58px;
-    float: left;
-    padding-right: 8px;
-    padding-top: 4px;
-}
-
-@media screen and (max-width: 48em) {
-    article>p:first-child::first-letter {
-        font-size: 48px;
-        line-height: 46px;
-        padding-right: 6px;
-    }
-}
-
 /* menu */
 nav ul {
   display: flex;
